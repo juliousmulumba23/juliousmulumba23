@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliousmulumba23
 - 👀 I’m interested in Linux, Automation and ochestration
-- 🌱 I’m currently learning Ansible
+- 🌱 I’m currently learning Cloud Automation.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ssekwejulious@gmail.com
 
